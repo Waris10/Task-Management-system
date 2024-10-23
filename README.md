@@ -12,12 +12,15 @@ A simple Laravel web application for task management
 -   Priorities are given automatically/assigned to newly added tasks
 -   Automatic priority update based on reorder.
 
-## Setup Instructions
+## Screenshot
+
+![task management](https://github.com/user-attachments/assets/680cf25a-a004-45ac-8879-6b13dfb68ef7)
 
 ### Prerequisites
 
 -   PHP 8.2 or higher
 -   Laravel 11.x
+-   Livewire v3
 -   Composer
 -   MySQL
 -   npm
